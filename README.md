@@ -26,5 +26,7 @@ The goal was to create a modern, responsive, and intuitive interface using **HTM
 
 ## 📩 Contact  
 📧 **Email:** [ivandouradorsd@gmail.com](mailto:ivandouradorsd@gmail.com)
+
 💼 **LinkedIn:** [Ivan Felipe]([https://www.linkedin.com/in/jaiana-santos-dev/](https://www.linkedin.com/in/ivan-felipe-dev/))  
+
 📂 **GitHub:** [@ivanDourado]([https://github.com/jaianaaraujo/](https://github.com/ivanDourado))
